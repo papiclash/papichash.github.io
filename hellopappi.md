@@ -1,3 +1,3 @@
-layout: page
-title: "yomama"
-permalink: /hellopappi
+#layout: page
+#title: "yomama"
+#permalink: /hellopappi
