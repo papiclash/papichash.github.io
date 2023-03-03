@@ -6,3 +6,13 @@ or not
 i wat to get in
 or i will be mad
 >:(
+>:)
+-kk
+/daddy
+.aurg
+,not
+:yy
+;nono
+{qq
+[22
+\w
