@@ -15,4 +15,5 @@ or i will be mad
 ;nono
 {qq
 [22
-\w
+\wtv
+![image](https://user-images.githubusercontent.com/126195421/223164640-89d260e6-8ecf-4d31-b513-ed39b25a019f.png)
