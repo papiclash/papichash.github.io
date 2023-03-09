@@ -10,6 +10,7 @@ or i will be mad
 -kk
 /daddy
 .aurg
+
 ,not
 :yy
 ;nono
@@ -19,4 +20,4 @@ or i will be mad
 
 
 
-(papiclash.github.io/sansz)
+link: !papiclash.github.io/sansz
